@@ -1,0 +1,12 @@
+# Windows OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Cluster local state
+*.tmp
+*.log
